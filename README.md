@@ -16,7 +16,11 @@ Sigue estos pasos para poner el proyecto en funcionamiento:
 ```bash
 1. Clonar el Repositorio
 git clone https://github.com/dhay27/pruebaFront.git
-cd pruebaVantis
+cd frontprodctos
+
+en segunda terminal
+git clone https://github.com/dhay27/pruebaFrontVantis.git
+cd apiproductos
 
 2. Instalar Dependencias
 Dado que este proyecto tiene dos conjuntos de dependencias (cliente y servidor simulado), instalar ambas:
